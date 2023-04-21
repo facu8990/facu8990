@@ -1,0 +1,1 @@
+import{a as e,t}from"./index-162a4d0f.js";const a=t('<header class="container"><hgroup><h1>Welcome</h1><small>Please sign in.');function n(){return a()}function r(){return e(n,{})}export{r as default};
